@@ -24,4 +24,6 @@ Then we use different libraries like seaborn, matplotlib or bokeh to visualize t
 And after that we did some models like KNN, Decision tree, Support vector machine and Random Forest.
 Then we saw that we had a good prediction result with KNN so we decided to change the hyperparameters in the KNN and we obtained an accuracy of 81%.
 
+FOR THE API, YOU NEED TO LAUNCH IT IN THE COMMAND.EXE USING "streamlit run API_PROJET.PY". 
+
 To conclude, the most difficult parts for us was to create the models and to adapt them for our dataset and previously to make the visualization of the data with the plot.
