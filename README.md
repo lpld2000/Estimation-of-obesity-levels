@@ -20,8 +20,11 @@ The data contains numerical data and continous data, so it can be used for analy
 on algorithms of classification, prediction and clustering.
 
 So to deal with this dataset, first we saw that we don't have to clean it deleting null datas so it was easy for us to begin.
+
 Then we use different libraries like seaborn, matplotlib or bokeh to visualize them and to conclude about their significativity.
+
 And after that we did some models like KNN, Decision tree, Support vector machine and Random Forest.
+
 Then we saw that we had a good prediction result with KNN so we decided to change the hyperparameters in the KNN and we obtained an accuracy of 81%.
 
 FOR THE API, YOU NEED TO LAUNCH IT IN THE COMMAND.EXE USING "streamlit run API_PROJET.PY". 
